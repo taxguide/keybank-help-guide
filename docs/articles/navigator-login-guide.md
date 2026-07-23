@@ -1,7 +1,5 @@
 # Navigator Login Guide: Online Account Access and Security
 
-## Overview
-
 Navigator Login is designed to provide users with secure access to online account services through a centralized sign-in portal. The platform helps users manage account information, review available services, and navigate digital banking features from a single location.
 
 Understanding how the Navigator Login portal works can make it easier to access important account resources while maintaining a secure online experience.
