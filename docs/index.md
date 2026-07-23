@@ -1,87 +1,123 @@
 # KeyBank Help Guide
 
-## Comprehensive Documentation for KeyBank Login & Online Banking
+## Complete Resource for KeyBank Login and Online Banking Information
 
-Welcome to the **KeyBank Help Guide**, your central resource for exploring KeyBank online banking documentation, account access information, login resources, and navigation guides.
+Welcome to the **KeyBank Help Guide**, a structured documentation resource created to help users explore KeyBank login information, online account access topics, navigation guides, and related banking resources.
 
-This documentation has been organized to help users quickly locate information related to KeyBank online services, login pages, account management, and digital banking resources.
-
----
-
-## What You'll Find Here
-
-<div class="grid cards" markdown>
-
-- :material-login:
-
-    **KeyBank Login Page**
-
-    Learn about accessing the KeyBank login portal and understanding available sign-in options.
-
-- :material-shield-lock:
-
-    **Secure Login**
-
-    Explore security recommendations and account protection practices.
-
-- :material-bank:
-
-    **Online Banking**
-
-    Discover information about digital banking services and account management.
-
-- :material-book-open-page-variant:
-
-    **Knowledge Base**
-
-    Browse detailed documentation covering common login and navigation topics.
-
-</div>
+This documentation is organized into clear articles so users can easily find information about different KeyBank login pages, account access options, and online banking topics.
 
 ---
 
-## Featured Documentation
+## About This Documentation
 
-| Documentation | Description |
-|---------------|-------------|
-| **KeyBank Login Page** | Information about the KeyBank login portal and online account access. |
-| **Key Navigator Login** | Learn about Navigator login features and account navigation. |
-| **Navigator Login Guide** | Explore login resources and online banking navigation. |
-| **KeyTrade Login** | Information about accessing the KeyTrade online banking portal. |
-| **Account Login Guide** | General guidance about account access and login information. |
-| **Website Login Guide** | Learn about website login pages and online banking security. |
+The KeyBank Help Guide brings important account access information together in one place.
+
+Each article is arranged with clear sections and useful references, making it easier to explore different topics and understand available online banking resources.
+
+This documentation covers login guides, account access information, navigation resources, and related topics in an organized format.
 
 ---
 
-## Quick Navigation
+## Explore Our Guides
 
-- [KeyBank Login Page](articles/keybank-login-page.md)
-- [Key Navigator Login](articles/key-navigator-login.md)
-- [Navigator Login Guide](articles/navigator-login-guide.md)
-- [KeyTrade Login](articles/keytrade-login.md)
-- [Account Login Guide](articles/account-login.md)
-- [Website Login Guide](articles/website-login.md)
+### KeyBank Login Information
+
+Find information about KeyBank login pages, account access navigation, and online banking resources.
 
 ---
 
-!!! info "Documentation Purpose"
+### Key Navigator Resources
 
-    This documentation is designed to provide structured information about KeyBank login pages, online banking access, account navigation, and related digital banking topics.
-
----
-
-!!! tip "Easy Navigation"
-
-    Use the navigation panel on the left to move between guides without returning to the homepage.
+Explore guides related to Key Navigator login information, account navigation, and available online services.
 
 ---
 
-!!! note "Related Articles"
+### Account Access Guides
 
-    Every guide includes links to additional documentation so you can continue exploring related topics.
+Learn about general account login information, website access, and online account navigation.
 
 ---
 
-## Getting Started
+### Related Banking Resources
 
-Choose any guide from the navigation menu and begin exploring KeyBank online banking documentation.
+Browse additional guides covering different login topics and account-related information.
+
+---
+
+# Featured Articles
+
+## KeyBank Login Page Guide
+
+Learn about the KeyBank login page, access information, navigation features, and related online banking topics.
+
+[Read KeyBank Login Page Guide](articles/keybank-login-page.md)
+
+---
+
+## Key Navigator Secure Login
+
+Explore information about KeyBank Navigator access, account navigation, and online banking resources.
+
+[Read Key Navigator Secure Login Guide](articles/key-navigator-login.md)
+
+---
+
+## Navigator Login Guide
+
+Understand navigation resources, account access topics, and online service information.
+
+[Read Navigator Login Guide](articles/navigator-login-guide.md)
+
+---
+
+## KeyTrade Login Guide
+
+Explore information about KeyTrade login access, account features, and digital banking resources.
+
+[Read KeyTrade Login Guide](articles/keytrade-login.md)
+
+---
+
+## Login To My Account Guide
+
+Learn about account access information, login navigation, and related account management topics.
+
+[Read Account Login Guide](articles/account-login.md)
+
+---
+
+## Website Login Guide
+
+Discover information about website login pages, online access features, and security practices.
+
+[Read Website Login Guide](articles/website-login.md)
+
+---
+
+# Documentation Features
+
+This guide provides:
+
+- Organized article structure
+- Easy navigation between topics
+- Clear documentation pages
+- Related article references
+- Simple and readable content format
+
+---
+
+# Getting Started
+
+To explore the documentation:
+
+1. Select an article from the navigation menu.
+2. Read the available information.
+3. Visit related guides for additional topics.
+
+---
+
+# Need More Information?
+
+Browse the available articles to explore detailed KeyBank login, account access, and online banking resources.
+
+Thank you for visiting the **KeyBank Help Guide**.
