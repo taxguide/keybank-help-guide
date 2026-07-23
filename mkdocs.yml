@@ -1,6 +1,5 @@
 site_name: KeyBank Help Guide
-site_description: Complete documentation for KeyBank login and online banking guides.
-site_url: https://keybank-help-guide.readthedocs.io/
+site_description: Complete KeyBank Login & Online Banking Documentation
 
 theme:
   name: material
@@ -9,17 +8,20 @@ theme:
   palette:
     - scheme: default
       primary: blue
-      accent: indigo
+      accent: light blue
 
   features:
+    - navigation.instant
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.indexes
+    - navigation.footer
+    - navigation.tracking
     - search.highlight
     - search.suggest
-    - content.code.copy
+    - search.share
     - toc.follow
+    - content.code.copy
 
 nav:
   - Home: index.md
@@ -35,8 +37,7 @@ nav:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - toc:
       permalink: true
-
-
