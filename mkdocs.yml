@@ -1,5 +1,5 @@
 site_name: KeyBank Help Guide
-site_description: Complete KeyBank Login & Online Banking Documentation
+site_description: Complete KeyBank Login and Online Banking Documentation
 
 theme:
   name: material
@@ -11,19 +11,13 @@ theme:
       accent: light blue
 
   features:
-    - navigation.instant
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.footer
-    - navigation.tracking
     - search.highlight
     - search.suggest
-    - search.share
-    - toc.follow
-    - content.code.copy
-  
-    extra_css:
+
+extra_css:
   - stylesheets/extra.css
 
 nav:
