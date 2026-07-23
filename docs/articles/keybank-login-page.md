@@ -1,7 +1,5 @@
 # How To Access the KeyBank Login Page: Complete Guide
 
-## Introduction
-
 The KeyBank login page serves as the primary access point for customers who want to sign in to their online banking accounts. Understanding how the login page works can make it easier to locate account access options, navigate available features, and become familiar with the online banking experience.
 
 This guide explains the purpose of the KeyBank login page, the general sign-in process, available account recovery options, and helpful security practices to keep in mind while accessing an online account.
