@@ -3,9 +3,7 @@
 ## Complete Resource for KeyBank Login and Online Banking Information
 
 <div class="article-card">
-<a href="articles/keybank-login-page.md" class="custom-button">
-Read KeyBank Login Guide
-</a>
+<a href="articles/keybank-login-page.md" class="custom-button">Read KeyBank Login Guide</a>
 
 </div>
 
