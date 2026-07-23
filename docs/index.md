@@ -1,21 +1,13 @@
 # KeyBank Help Guide
 
 ## Complete Resource for KeyBank Login and Online Banking Information
+
 <div class="article-card">
 
-<img src="images/keybank-login.png" alt="KeyBank Login Guide">
-
-<h3>KeyBank Login Page Guide</h3>
-
 <a href="articles/keybank-login-page/" class="custom-button">
-Read Guide
+Read KeyBank Login Guide
 </a>
 
-<p>
-Learn about KeyBank login page information, account access, and online banking navigation.
-</p>
-
-</div>
 
 Welcome to the **KeyBank Help Guide**, a structured documentation resource created to help users explore KeyBank login information, online account access topics, navigation guides, and related banking resources.
 
