@@ -1,7 +1,5 @@
 # KeyTrade Login: Secure Account Access and Sign-In Information
 
-## Introduction
-
 KeyTrade Login provides registered customers with secure access to their online banking accounts. Through the login portal, users can manage their accounts, review recent transactions, access banking services, and update account preferences from a secure online environment.
 
 This guide provides an overview of the KeyTrade Login portal, explains the sign-in process, highlights important security recommendations, and answers common questions related to online account access.
