@@ -1,16 +1,42 @@
 site_name: KeyBank Help Guide
+site_description: Complete documentation for KeyBank login and online banking guides.
+site_url: https://keybank-help-guide.readthedocs.io/
 
 theme:
   name: material
+  language: en
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
 
 nav:
   - Home: index.md
 
-  - Articles:
+  - Login Guides:
       - KeyBank Login Page: articles/keybank-login-page.md
       - Key Navigator Login: articles/key-navigator-login.md
       - Navigator Login Guide: articles/navigator-login-guide.md
       - KeyTrade Login: articles/keytrade-login.md
       - Account Login: articles/account-login.md
       - Website Login: articles/website-login.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
 
