@@ -1,7 +1,5 @@
 # KeyBank Navigator Login Guide: Access and Navigation Overview
 
-## Overview of KeyBank Navigator
-
 KeyBank Navigator provides a dedicated online platform experience where users can access account-related information and explore available banking resources. Understanding the navigation process can help users become familiar with different sections and available options.
 
 This guide explains general information about KeyBank Navigator access, account navigation, and important topics users may want to explore.
