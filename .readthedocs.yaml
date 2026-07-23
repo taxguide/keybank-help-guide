@@ -1,1 +1,12 @@
+version: 2
+
+sphinx:
+  configuration: null
+
+mkdocs:
+  configuration: mkdocs.yml
+
+python:
+  install:
+    - requirements: requirements.txt
 
