@@ -1,1 +1,16 @@
+site_name: KeyBank Help Guide
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - Articles:
+      - KeyBank Login Page: articles/keybank-login-page.md
+      - Key Navigator Login: articles/key-navigator-login.md
+      - Navigator Login Guide: articles/navigator-login-guide.md
+      - KeyTrade Login: articles/keytrade-login.md
+      - Account Login: articles/account-login.md
+      - Website Login: articles/website-login.md
 
