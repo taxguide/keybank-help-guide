@@ -3,7 +3,9 @@ site_description: Complete KeyBank Login and Online Banking Documentation
 
 theme:
   name: material
+  language: en
   custom_dir: docs/overrides
+
 
   palette:
     - scheme: default
