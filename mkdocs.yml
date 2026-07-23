@@ -22,6 +22,9 @@ theme:
     - search.share
     - toc.follow
     - content.code.copy
+  
+    extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
