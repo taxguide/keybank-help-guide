@@ -1,55 +1,68 @@
-# Welcome to KeyBank Help Guide
+---
+hide:
+  - navigation
+  - toc
+---
 
 <div class="hero">
 
-<h1>Find Login, Recovery & Help Guides</h1>
+<h1>KeyBank Help Guide</h1>
 
 <p>
-Access step-by-step guides for online banking, account recovery,
-mobile banking, and troubleshooting.
+Find Login, Account Recovery, Mobile Banking and Troubleshooting Guides
 </p>
 
-<a class="hero-btn" href="articles/keybank-login-page/">
-Get Started
-</a>
+<div class="hero-search">
+
+<input type="text" placeholder="Search a guide...">
+
+<button>Search</button>
 
 </div>
 
----
+</div>
 
 ## Featured Categories
 
-<div class="cards">
+<div class="category-grid">
 
-<div class="card">
+<div class="category-card">
 
 ### 🔐 Login Guides
 
-Secure login help for online banking.
+Sign in, online banking, KeyNavigator and KeyTrade help.
+
+<a href="articles/keybank-login-page/">View Guides →</a>
 
 </div>
 
-<div class="card">
+<div class="category-card">
 
 ### 🔑 Account Recovery
 
-Recover your account quickly.
+Forgot password, username recovery and locked account help.
+
+<a href="articles/account-login/">Recover Account →</a>
 
 </div>
 
-<div class="card">
-
-### 📱 Mobile Banking
-
-Manage your account on mobile.
-
-</div>
-
-<div class="card">
+<div class="category-card">
 
 ### 🛠 Troubleshooting
 
-Fix common banking issues.
+Browser issues, login errors and mobile banking fixes.
+
+<a href="articles/keytrade-login/">Fix Problems →</a>
+
+</div>
+
+<div class="category-card">
+
+### 📞 Contact
+
+Customer support numbers and banking help.
+
+<a href="articles/navigator-login-guide/">Contact Support →</a>
 
 </div>
 
@@ -57,9 +70,50 @@ Fix common banking issues.
 
 ---
 
-## Latest Articles
+# Latest Articles
 
-- [KeyBank Login](articles/keybank-login-page.md)
-- [Key Navigator Login](articles/key-navigator-login.md)
-- [Account Recovery](articles/account-login.md)
-- [Website Login](articles/website-login.md)
+- KeyBank Login
+- KeyNavigator Login
+- KeyTrade Login
+- Forgot Password
+- Mobile Banking
+
+---
+
+# Popular Guides
+
+<div class="popular-grid">
+
+<div class="popular-card">
+
+### KeyBank Login
+
+Step-by-step login instructions.
+
+</div>
+
+<div class="popular-card">
+
+### Reset Password
+
+Recover your password safely.
+
+</div>
+
+<div class="popular-card">
+
+### Mobile App
+
+Install and sign in.
+
+</div>
+
+<div class="popular-card">
+
+### Routing Number
+
+Find KeyBank routing numbers.
+
+</div>
+
+</div>
