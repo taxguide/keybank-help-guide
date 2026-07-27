@@ -3,18 +3,10 @@ site_description: Complete KeyBank Login and Online Banking Documentation
 
 theme:
   name: material
-  language: en
   custom_dir: docs/overrides
 
-
-  palette:
-    - scheme: default
-      primary: blue
-      accent: light blue
-
   features:
-    - navigation.sections
-    - navigation.expand
+    - navigation.tabs
     - navigation.top
     - search.highlight
     - search.suggest
@@ -24,19 +16,9 @@ extra_css:
 
 nav:
   - Home: index.md
-
-  - Login Guides:
-      - KeyBank Login Page: articles/keybank-login-page.md
-      - Key Navigator Login: articles/key-navigator-login.md
-      - Navigator Login Guide: articles/navigator-login-guide.md
-      - KeyTrade Login: articles/keytrade-login.md
-      - Account Login: articles/account-login.md
-      - Website Login: articles/website-login.md
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - tables
-  - toc:
-      permalink: true
+  - Login: articles/keybank-login-page.md
+  - Reset Password: articles/account-login.md
+  - Mobile App: articles/keytrade-login.md
+  - Routing Number: articles/key-navigator-login.md
+  - Contact: articles/website-login.md
+  - FAQ: articles/navigator-login-guide.md
