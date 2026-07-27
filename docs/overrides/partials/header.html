@@ -1,1 +1,46 @@
+{% extends "partials/header.html" %}
 
+{% block tabs %}
+<div class="custom-navbar">
+
+  <div class="navbar-logo">
+    <a href="{{ nav.homepage.url | url }}">
+      <img src="{{ 'images/logo.png' | url }}" alt="KeyBank Help Guide">
+    </a>
+  </div>
+
+  <div class="navbar-menu">
+
+    <a href="{{ nav.homepage.url | url }}">Home</a>
+
+    <div class="dropdown">
+      <span>Login Guides ▾</span>
+      <div class="dropdown-content">
+        <a href="{{ 'articles/keybank-login-page/' | url }}">KeyBank Login</a>
+        <a href="{{ 'articles/key-navigator-login/' | url }}">Key Navigator</a>
+        <a href="{{ 'articles/website-login/' | url }}">Website Login</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <span>Recovery ▾</span>
+      <div class="dropdown-content">
+        <a href="{{ 'articles/account-login/' | url }}">Account Recovery</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <span>Troubleshooting ▾</span>
+      <div class="dropdown-content">
+        <a href="{{ 'articles/keytrade-login/' | url }}">KeyTrade Login</a>
+      </div>
+    </div>
+
+    <a href="{{ 'articles/navigator-login-guide/' | url }}">Contact</a>
+
+  </div>
+
+</div>
+
+{{ super() }}
+{% endblock %}
