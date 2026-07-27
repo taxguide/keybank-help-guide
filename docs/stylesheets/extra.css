@@ -32,3 +32,29 @@
 .top-nav a:hover {
     color: #0056b3;
 }
+
+/* Make page wider */
+.md-grid {
+    max-width: 1600px !important;
+}
+
+/* Full width content */
+.md-content {
+    max-width: 100% !important;
+}
+
+.md-main__inner {
+    max-width: 100% !important;
+    margin: 0 auto;
+}
+
+/* Make article use full width */
+.md-content__inner {
+    max-width: 100% !important;
+    margin: 0;
+}
+
+/* Hide right table of contents (optional) */
+.md-sidebar--secondary {
+    display: none;
+}
