@@ -1,38 +1,46 @@
 site_name: KeyBank Help Guide
 site_description: Complete KeyBank Login and Online Banking Documentation
+site_url: https://keybank-help-guide-keybank-help-guide.readthedocs-hosted.com/
 
 theme:
   name: material
   language: en
-  custom_dir: docs/overrides
 
-  features:
-    - navigation.tabs
-    - navigation.top
-    - search.highlight
-    - search.suggest
+  logo: images/logo.png
 
   palette:
     - scheme: default
-      primary: blue
-      accent: light blue
+      primary: white
+      accent: blue
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+    - search.suggest
 
 extra_css:
   - stylesheets/extra.css
 
 nav:
   - Home: index.md
-  - Login: articles/keybank-login-page.md
-  - Reset Password: articles/account-login.md
-  - Mobile App: articles/keytrade-login.md
-  - Routing Number: articles/key-navigator-login.md
-  - Contact: articles/website-login.md
-  - FAQ: articles/navigator-login-guide.md
+
+  - Login Guides:
+      - KeyBank Login: articles/keybank-login-page.md
+      - Key Navigator Login: articles/key-navigator-login.md
+      - Website Login: articles/website-login.md
+
+  - Recovery:
+      - Account Recovery: articles/account-login.md
+
+  - Troubleshooting:
+      - KeyTrade Login: articles/keytrade-login.md
+
+  - Contact: articles/navigator-login-guide.md
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
   - tables
-  - toc:
-      permalink: true
