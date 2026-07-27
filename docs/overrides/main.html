@@ -13,7 +13,7 @@
   </div>
 
   <nav class="top-nav">
-    <a href="{{ pathto('index') }}">Home</a>
+    <a href="{{ config.site_url | default('/') }}">Home</a>
     <a href="/articles/keybank-login-page/">Login</a>
     <a href="/articles/account-login/">Reset Password</a>
     <a href="/articles/keytrade-login/">Mobile App</a>
