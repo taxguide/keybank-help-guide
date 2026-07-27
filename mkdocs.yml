@@ -3,6 +3,7 @@ site_description: Complete KeyBank Login and Online Banking Documentation
 
 theme:
   name: material
+  language: en
   custom_dir: docs/overrides
 
   features:
@@ -10,6 +11,11 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
 
 extra_css:
   - stylesheets/extra.css
@@ -22,3 +28,11 @@ nav:
   - Routing Number: articles/key-navigator-login.md
   - Contact: articles/website-login.md
   - FAQ: articles/navigator-login-guide.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
