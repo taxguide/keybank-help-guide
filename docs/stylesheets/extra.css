@@ -1,60 +1,90 @@
-.md-header {
-    display: none;
+/* Full Width */
+
+.md-grid{
+max-width:1800px!important;
 }
 
-.md-tabs {
-    display: none;
+/* Bigger Header */
+
+.md-header{
+height:80px;
 }
 
-.top-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 16px 40px;
-    background: #ffffff;
-    border-bottom: 1px solid #ddd;
+.md-header__title{
+font-size:28px;
+font-weight:700;
 }
 
-.logo a {
-    font-size: 26px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #003b75;
+/* Bigger Navigation */
+
+.md-tabs{
+height:70px;
+background:#ffffff;
+border-bottom:1px solid #ddd;
 }
 
-.top-nav a {
-    margin-left: 20px;
-    text-decoration: none;
-    color: #333;
-    font-weight: 500;
+.md-tabs__list{
+justify-content:center;
 }
 
-.top-nav a:hover {
-    color: #0056b3;
+.md-tabs__link{
+
+font-size:18px!important;
+
+font-weight:700!important;
+
+padding:18px 24px!important;
+
+color:#222!important;
+
 }
 
-/* Make page wider */
-.md-grid {
-    max-width: 1600px !important;
+.md-tabs__link:hover{
+
+color:#0056d6!important;
+
 }
 
-/* Full width content */
-.md-content {
-    max-width: 100% !important;
+/* Wider Content */
+
+.md-main__inner{
+
+max-width:1700px;
+
+margin:auto;
+
 }
 
-.md-main__inner {
-    max-width: 100% !important;
-    margin: 0 auto;
+.md-content{
+
+max-width:100%;
+
 }
 
-/* Make article use full width */
-.md-content__inner {
-    max-width: 100% !important;
-    margin: 0;
+.md-content__inner{
+
+max-width:100%;
+
 }
 
-/* Hide right table of contents (optional) */
-.md-sidebar--secondary {
-    display: none;
+/* Hide Right Sidebar */
+
+.md-sidebar--secondary{
+
+display:none;
+
+}
+
+/* Bigger Logo */
+
+.md-header__button.md-logo img{
+
+height:48px;
+
+}
+
+.md-header__title{
+
+font-size:30px;
+
 }
